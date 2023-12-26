@@ -1,0 +1,341 @@
+.svg-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 668px;
+    height: 967px;
+    overflow: hidden;
+}
+.divsppb-addon-single-image-co {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 325px);
+    width: 650px;
+    height: 596.47px;
+}
+.divsppb-addon-content {
+    position: absolute;
+    width: calc(100% + 110px);
+    top: 0px;
+    right: 0px;
+    left: -110px;
+    height: 596.47px;
+}
+.divsppb-column-addons {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 30px);
+    top: 0px;
+    right: 15px;
+    bottom: 0px;
+    left: 15px;
+}
+.divcolumn-wrap-id-15717236646 {
+    position: absolute;
+    width: calc(100% - 570px);
+    top: calc(50% - 298.23px);
+    right: 570px;
+    left: 0px;
+    height: 596.47px;
+}
+.hello {
+    position: absolute;
+    top: -15px;
+    left: 0px;
+    line-height: 150px;
+    display: flex;
+    align-items: center;
+    width: 333.19px;
+    height: 180px;
+}
+.heading-2 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 150px;
+    font-size: 150px;
+    color: #04e8b9;
+}
+.im-anas {
+    position: absolute;
+    top: -3px;
+    left: 0px;
+    line-height: 70px;
+    display: flex;
+    align-items: center;
+    width: 279.4px;
+    height: 76px;
+}
+.heading-3 {
+    position: absolute;
+    width: 100%;
+    top: 170px;
+    right: 0px;
+    left: 0px;
+    height: 70px;
+    font-size: 63px;
+    color: #73d9ff;
+}
+.my-self-introduction {
+    margin: 0;
+}
+.name {
+    margin: 0;
+    color: #ec91ff;
+}
+.my-self-introduction-container1 {
+    line-break: anywhere;
+    width: 100%;
+}
+.my-self-introduction-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 152.9px;
+    height: 43px;
+    color: #586c7a;
+}
+.div {
+    position: absolute;
+    top: 24px;
+    left: 43.84px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 5.23px;
+    height: 19px;
+}
+.first-name {
+    position: absolute;
+    top: 48px;
+    left: 9.61px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 79.85px;
+    height: 19px;
+}
+.anas {
+    position: absolute;
+    top: 48px;
+    left: 92.34px;
+    line-height: 24px;
+    color: #73d9ff;
+    display: flex;
+    align-items: center;
+    width: 57.47px;
+    height: 19px;
+}
+.last-name {
+    position: absolute;
+    top: 72px;
+    left: 6.41px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 78.16px;
+    height: 19px;
+}
+.braik {
+    position: absolute;
+    top: 72px;
+    left: 87.45px;
+    line-height: 24px;
+    color: #73d9ff;
+    display: flex;
+    align-items: center;
+    width: 53.41px;
+    height: 19px;
+}
+.div1 {
+    position: absolute;
+    top: 96px;
+    left: 0px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 5.23px;
+    height: 19px;
+}
+.code {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    width: 152.7px;
+    height: 115px;
+}
+.div2 {
+    position: absolute;
+    top: 98px;
+    left: 9.84px;
+    line-height: 24px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    width: 3.03px;
+    height: 19px;
+}
+.divsppb-addon-content1 {
+    position: absolute;
+    width: calc(100% - 60px);
+    top: 30px;
+    right: 30px;
+    left: 30px;
+    height: 120px;
+}
+.divsppb-addon-1571746725182 {
+    position: absolute;
+    width: calc(100% - 189px);
+    top: 305px;
+    right: 189px;
+    left: 0px;
+    background: linear-gradient(204.24deg, #313960, #11152b);
+    height: 180px;
+}
+.what-i-do {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 24px;
+    color: #ec91ff;
+    display: flex;
+    align-items: center;
+    width: 70.28px;
+    height: 19px;
+}
+.div3 {
+    position: absolute;
+    top: 0px;
+    left: 73.17px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 5.23px;
+    height: 19px;
+}
+.profession {
+    position: absolute;
+    top: 24px;
+    left: 9.61px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 82.71px;
+    height: 19px;
+}
+.developer {
+    position: absolute;
+    top: 24px;
+    left: 95.19px;
+    line-height: 24px;
+    color: #73d9ff;
+    display: flex;
+    align-items: center;
+    width: 74.83px;
+    height: 19px;
+}
+.markup {
+    position: absolute;
+    top: 48px;
+    left: 9.61px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 59.88px;
+    height: 19px;
+}
+.html {
+    position: absolute;
+    top: 48px;
+    left: 72.31px;
+    line-height: 24px;
+    color: #73d9ff;
+    display: flex;
+    align-items: center;
+    width: 45.42px;
+    height: 19px;
+}
+.expert {
+    position: absolute;
+    top: 72px;
+    left: 9.61px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 55.43px;
+    height: 19px;
+}
+.php {
+    position: absolute;
+    top: 72px;
+    left: 67.88px;
+    line-height: 24px;
+    color: #73d9ff;
+    display: flex;
+    align-items: center;
+    width: 34.69px;
+    height: 19px;
+}
+.code1 {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    width: 172.91px;
+    height: 115px;
+}
+.divsppb-addon-1571746718376 {
+    position: absolute;
+    width: calc(100% - 189px);
+    top: 515px;
+    right: 79px;
+    left: 110px;
+    background: linear-gradient(204.24deg, #313960, #11152b);
+    height: 180px;
+}
+.divcolumn-wrap-id-157172366461 {
+    position: absolute;
+    width: calc(100% - 570px);
+    top: calc(50% - 347.5px);
+    right: 0px;
+    left: 570px;
+    height: 695px;
+}
+.e0aef-6904-4124-9faf-e8bc18fe7-icon {
+    position: absolute;
+    top: 50.5px;
+    left: -0.5px;
+    width: 464px;
+    height: 640px;
+    object-fit: cover;
+    mix-blend-mode: screen;
+}
+.divsppb-row {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 695px;
+}
+.divsppb-row-container {
+    position: absolute;
+    top: calc(50% - 312.5px);
+    left: calc(50% - 570px);
+    width: 1140px;
+    height: 695px;
+}
+.section {
+    position: relative;
+    width: 100%;
+    height: 865px;
+    text-align: left;
+    font-size: 16px;
+    color: #edf2f5;
+    font-family: Barlow;
+}
+

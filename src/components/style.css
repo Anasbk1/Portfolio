@@ -1,0 +1,514 @@
+.section {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(17, 21, 43, 1);
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
+.div-sppb-addon-wrapper {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  .section .overlap {
+    height: 967px;
+    position: relative;
+    width: 1290px;
+  }
+  
+  .section .SVG {
+    height: 967px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 668px;
+  }
+  
+  .section .div-sppb-row {
+    height: 695px;
+    left: 150px;
+    position: absolute;
+    top: 120px;
+    width: 1140px;
+  }
+  
+  .section .div {
+    height: 695px;
+    position: relative;
+  }
+  
+  .section .overlap-group {
+    height: 641px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 570px;
+  }
+  
+  .section .div-column-wrap-id {
+    height: 596px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 570px;
+  }
+  
+  .section .div-sppb-column {
+    height: 596px;
+    left: 15px;
+    position: relative;
+    width: 540px;
+  }
+  
+   .div-sppb-addon {
+    height: 596px;
+    left: -110px;
+    position: relative;
+    width: 650px;
+    animation: fade-in 1s;
+  }
+  
+  .section .element {
+    height: 640px;
+    left: 0;
+    mix-blend-mode: screen;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 464px;
+  }
+  
+  .section .div-sppb-column-wrapper {
+    height: 695px;
+    left: 570px;
+    position: absolute;
+    top: 0;
+    width: 570px;
+  }
+  
+  .section .div-sppb-column-2 {
+    height: 695px;
+    left: 15px;
+    position: relative;
+    width: 540px;
+  }
+  
+  .section .heading {
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 540px;
+  }
+  
+  .section .text-wrapper {
+    color: #04e8b9;
+    font-family: "Barlow-Bold", Helvetica;
+    font-size: 150px;
+    font-weight: 700;
+    height: 180px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 150px;
+    position: absolute;
+    top: -16px;
+    white-space: nowrap;
+    width: 333px;
+  }
+  
+  .section .div-wrapper {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 170px;
+    width: 540px;
+  }
+  
+  .section .text-wrapper-2 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 63px;
+    font-weight: 400;
+    height: 76px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 70px;
+    position: absolute;
+    top: -4px;
+    white-space: nowrap;
+    width: 279px;
+  }
+  
+  .section .div-sppb-addon-wrapper {
+    background: linear-gradient(180deg, rgb(49, 57, 96) 0%, rgb(17, 21, 43) 100%);
+    height: 180px;
+    left: 0;
+    position: absolute;
+    top: 305px;
+    width: 351px;
+    animation: fadeIN 1s;
+  }
+  
+  .section .overlap-group-wrapper {
+    height: 120px;
+    left: 30px;
+    position: relative;
+    top: 30px;
+    width: 291px;
+  }
+  
+  .section .overlap-2 {
+    height: 115px;
+    position: relative;
+    top: 2px;
+    width: 153px;
+  }
+  
+  .section .code {
+    height: 115px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 153px;
+  }
+  
+  .section .overlap-group-2 {
+    height: 43px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 153px;
+  }
+  
+  .section .my-self-introduction {
+    color: transparent;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 43px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    width: 153px;
+  }
+  
+  .section .span {
+    color: #586c7a;
+  }
+  
+  .section .text-wrapper-3 {
+    color: #ec91ff;
+  }
+  
+  .section .text-wrapper-4 {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+    width: 5px;
+  }
+  
+  .section .text-wrapper-5 {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+    width: 80px;
+  }
+  
+  .section .text-wrapper-6 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 92px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+    width: 57px;
+  }
+  
+  .section .text-wrapper-7 {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 71px;
+    white-space: nowrap;
+    width: 78px;
+  }
+  
+  .section .text-wrapper-8 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 87px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 71px;
+    white-space: nowrap;
+    width: 53px;
+  }
+  
+  .section .text-wrapper-9 {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 95px;
+    white-space: nowrap;
+    width: 5px;
+  }
+  @keyframes blink {
+    0%, 49.9%, 100% {
+      opacity: 1;
+    }
+    50%, 99.9% {
+      opacity: 0;
+    }
+
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  
+  .text-wrapper, .text-wrapper-2 {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  .section .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 95px;
+    white-space: nowrap;
+    width: 3px;
+    animation: blink 0.8s infinite;
+  }
+  
+  .section .div-sppb-addon-2 {
+    background: linear-gradient(180deg, rgb(49, 57, 96) 0%, rgb(17, 21, 43) 100%);
+    height: 180px;
+    left: 110px;
+    position: absolute;
+    top: 515px;
+    width: 351px;
+  }
+  
+  .section .overlap-group-3 {
+    height: 115px;
+    position: relative;
+    top: 2px;
+    width: 173px;
+  }
+  
+  .section .code-2 {
+    height: 115px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 173px;
+  }
+  
+  .section .text-wrapper-11 {
+    color: #ec91ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 70px;
+  }
+  
+  .section .text-wrapper-12 {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 5px;
+  }
+  
+  .section .profession {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+    width: 83px;
+  }
+  
+  .section .text-wrapper-13 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+    width: 75px;
+  }
+  
+  .section .markup {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+    width: 60px;
+  }
+  
+  .section .text-wrapper-14 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 72px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+    width: 45px;
+  }
+  
+  .section .expert {
+    color: #edf2f5;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 71px;
+    white-space: nowrap;
+    width: 55px;
+  }
+  
+  .section .text-wrapper-15 {
+    color: #73d9ff;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 71px;
+    white-space: nowrap;
+    width: 35px;
+  }
+  .image {
+    height: 715px;
+    width: 494px;
+    border: none;
+    }
+    .image .removebg {
+    height: 715px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    border: none;
+    width: 494px;
+    outline: 0;
+    }
+  .box {
+    height: 1332px;
+    width: 1099px;
+  }
+  
+  .box .group {
+    height: 967px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 668px;
+  }
+
+  
